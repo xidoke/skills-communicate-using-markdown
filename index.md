@@ -5,3 +5,7 @@
 ``` js
 console.log("Hi, I'm xidoke");
 ```
+
+- [X] Learn JS
+- [X] Learn TS
+- [ ] Get a job
